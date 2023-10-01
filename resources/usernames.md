@@ -18,10 +18,7 @@ General tools for searching usernames across hundreds of social media platforms.
 
 * [Sherlock Project](https://github.com/sherlock-project/sherlock) (CLI)
 * [Maigret](https://github.com/soxoj/maigret) (CLI)
-* [WhatsMyName](https://whatsmyname.app/) (WebApp)
-* [IDCrawl](https://www.idcrawl.com/username) (WebApp)
+* [WhatsMyName](https://github.com/WebBreacher/WhatsMyName) (WebApp)
 * [InstantUsername](https://github.com/instantusername/instant-username-search) (WebApp)
-* [UserSearch.org](https://usersearch.org/) (WebApp)
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) (CLI)
-* [NAMINT](https://seintpl.github.io/NAMINT/) (WebApp)
 * [Seekr](https://github.com/seekr-osint/seekr) (CLI, WebApp)
