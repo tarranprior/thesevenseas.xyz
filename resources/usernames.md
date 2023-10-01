@@ -10,11 +10,11 @@ description: >-
 
 Usernames are online aliases that can often help correlate information and activity between multiple platforms.
 
-For instance, if we're investigating a particular individual and we have the username "JohnSmith123", we can use these tools to perform searches and discover their online presence across other platforms, potentially uncovering useful information such as names, email addresses, friends and family etc.
+For instance, let's say we're investigating a particular individual and we have the username "_JohnSmith123_". We can use these tools to perform searches and discover their online presence across other platforms, potentially uncovering useful information such as names, email addresses, friends and family etc.
 
 ## General Search Tools
 
-General tools for searching username availability across hundreds of social media platforms, also known as branding tools.
+General tools for searching usernames across hundreds of social media platforms.
 
 * [Sherlock Project](https://github.com/sherlock-project/sherlock) (CLI)
 * [Maigret](https://github.com/soxoj/maigret) (CLI)
@@ -24,3 +24,4 @@ General tools for searching username availability across hundreds of social medi
 * [UserSearch.org](https://usersearch.org/) (WebApp)
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) (CLI)
 * [NAMINT](https://seintpl.github.io/NAMINT/) (WebApp)
+* [Seekr](https://github.com/seekr-osint/seekr) (CLI, WebApp)
